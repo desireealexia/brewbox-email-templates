@@ -15,34 +15,11 @@ This project showcases **three responsive, mobile-first HTML email templates** f
 - Semantic HTML with **alt text** and **preheaders**
 - Tested with Litmus for **desktop, tablet, and mobile** rendering
 
----
-
-## 📸 Previews
-
-### Welcome Email
-
-| Desktop Preview                                                                                | Tablet Preview                                                                               | Mobile Preview                                                                               |
-| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| <img src="images/screenshots/welcome-preview-desktop.png" width="600" alt="Welcome Desktop" /> | <img src="images/screenshots/welcome-preview-tablet.png" width="400" alt="Welcome Tablet" /> | <img src="images/screenshots/welcome-preview-mobile.png" width="250" alt="Welcome Mobile" /> |
-
-### Promotional Email
-
-| Desktop Preview                                                                                | Tablet Preview                                                                               | Mobile Preview                                                                               |
-| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| <img src="images/screenshots/welcome-preview-desktop.png" width="600" alt="Welcome Desktop" /> | <img src="images/screenshots/welcome-preview-tablet.png" width="400" alt="Welcome Tablet" /> | <img src="images/screenshots/welcome-preview-mobile.png" width="250" alt="Welcome Mobile" /> |
-
-### Re-engagement Email
-
-| Desktop Preview                                                                                | Tablet Preview                                                                               | Mobile Preview                                                                               |
-| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| <img src="images/screenshots/welcome-preview-desktop.png" width="600" alt="Welcome Desktop" /> | <img src="images/screenshots/welcome-preview-tablet.png" width="400" alt="Welcome Tablet" /> | <img src="images/screenshots/welcome-preview-mobile.png" width="250" alt="Welcome Mobile" /> |
-
-> 💡 _All screenshots were taken using real device testing or rendering tools for accurate preview._
 
 ## 🔗 Live Demo
 
 View the full project and navigate to each email from the **portfolio homepage**:  
-👉 [Live Demo Link](#)
+👉 [Live Demo Link](https://desireealexia.github.io/brewbox-email-templates/)
 
 ## 📁 How to View Locally
 
