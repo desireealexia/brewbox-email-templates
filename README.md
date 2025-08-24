@@ -26,7 +26,7 @@ View the full project and navigate to each email from the **portfolio homepage**
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/brewbox-email-portfolio.git
+git clone https://github.com/desireealexia/brewbox-email-templates.git
 ```
 
 2. Open index.html in your browser to access the portfolio homepage.
